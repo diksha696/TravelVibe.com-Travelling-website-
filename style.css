@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=PT+Serif:ital@1&display=swap');
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'Alegreya', serif; 
+ 
+}
+.abouttag {
+  font-size: 32px !important;
+  font-family: 'PT Serif', serif; 
+  color: rgb(17, 14, 14);
+  font-weight: 600;
+}
+
+.aboutthis {
+  font-size: 26px !important;
+  color: rgb(17, 14, 14); 
+  font-family: 'PT Serif', serif; 
+  font-weight: 600;
+}
+
+.aboutthat {
+  font-size: 19px !important;
+  font-family: 'PT Serif', serif; 
+  color: rgb(17, 14, 14);
+  font-weight: 800;
+}
+
+.bannerpic {
+  width: 100%;
+  height: 50vh !important;
+}
+
+.aboutimg {
+  width: 100%;
+  height: 355px !important;
+}
+/*
+h3 .text-center {
+ color: rgb(51, 45, 45);
+} 
+
+/*
+p{
+   font-size: 19px;
+   font-weight: 700;
+   color: rgb(255, 250, 250);
+ /*  font-family: 'PT Serif', serif; 
+   font-family: 'Alegreya', serif; } */
